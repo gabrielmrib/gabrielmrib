@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @gabrielmrib
-- 👀 Estou interessado em **trabalhar com desenvolvimento de software**
-- 🌱 Atualmente estou estudando **JavaScript**
+- 👀 Trabalho como analista de TI
+
